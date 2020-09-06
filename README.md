@@ -20,9 +20,9 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 <div  >
 
- **🔭 I'm currently working at: ** 
--  University of Warwick since 2020
--  Vortex.so company since 2020
+ **🔭 I'm currently working at:** 
+-  University of Warwick 🎓   
+-  Vortex.so company 🏢 
     
 </div>
 
