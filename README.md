@@ -16,6 +16,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 </div>
  
+<br> 
 
 <div  >
 <h3> 🔭 I'm currently working at:</h3>
