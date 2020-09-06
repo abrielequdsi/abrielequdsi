@@ -27,9 +27,9 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 ### Connect with me:
 
-<img align="center" style="margin-right:2px;color:" alt="abrielequdsi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://www.abrielequdsi.com/"/>
-<img align="center" style="margin-right:2px;color:#0e76a8" alt="abrielequdsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/abriele-qudsi-1516821b0/"/>
-<img align="center" style="margin-right:2px;color:#F56040;" alt="abrielequdsi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/abrielequdsi/" />
+<img align="center" style="margin-right:4px" alt="abrielequdsi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://www.abrielequdsi.com/"/>
+<img align="center" style="margin-right:4px;color:#0e76a8" alt="abrielequdsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/abriele-qudsi-1516821b0/"/>
+<img align="center" style="margin-right:4px;color:#F56040;" alt="abrielequdsi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/abrielequdsi/" />
 
 
 </div>
