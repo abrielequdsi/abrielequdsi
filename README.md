@@ -12,13 +12,13 @@ An Innovative developer offering experience in the full software development lif
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is always to build products that provide pixel-perfect, performant experiences.
 
-<p>I'm currently work in <a href="https://www.vortex.so/" target="_blank">Vortex.so</a></p>
+<p>🔭 I'm currently work at <a href="https://www.vortex.so/" target="_blank">Vortex.so</a></p>
 
 </div>
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattfreire&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Matthew's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrielequdsi&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="abriele's Github Stats">
 
 <br>
 
