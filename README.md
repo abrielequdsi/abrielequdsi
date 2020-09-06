@@ -39,14 +39,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 
 </div>
-
- 
-<br>
-
- 
- 
- 
- 
+  
 
 
 <div >
