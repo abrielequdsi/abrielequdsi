@@ -16,7 +16,6 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 </div>
  
-<br>
 
 <div  >
 <h3> 🔭 I'm currently working at:</h3>
@@ -25,9 +24,6 @@ I enjoy creating things that live on the internet, whether that be websites, app
 -  Vortex.so company 🏢 
     
 </div>
-
- 
-<br>
 
 <div >
 <h3> 👾 Languages and Tools:</h3>
@@ -49,7 +45,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
  
 <img   src="https://github-readme-stats.vercel.app/api?username=abrielequdsi&&show_icons=true" alt="abrielequdsi's Github Stats">
  
-<br>
+ 
 
 
 <div >
