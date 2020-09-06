@@ -28,9 +28,14 @@ I enjoy creating things that live on the internet, whether that be websites, app
 <p> <i> Connect with me: </i></p>
 </div>
 
-<p style="margin-right:4px"> <a href="https://www.abrielequdsi.com/" target="_blank"><img align="center"  alt="abrielequdsi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a> &nbsp;</p>
-<p style="margin-right:4px"> <a href="https://www.linkedin.com/in/abriele-qudsi-1516821b0/" target="_blank"><img align="center" style="margin-right:4px;color:#0e76a8" alt="abrielequdsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  </a> &nbsp;</p>
-<p style="margin-right:4px"> <a href="https://www.abrielequdsi.com/" target="_blank"><img align="center" style="margin-right:4px;color:#F56040;" alt="abrielequdsi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/abrielequdsi/" />   
+<p style="margin-right:4px"> 
+ <a href="https://www.abrielequdsi.com/" target="_blank"><img align="center"  alt="abrielequdsi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a> &nbsp;&nbsp;
+ 
+ <a href="https://www.linkedin.com/in/abriele-qudsi-1516821b0/" target="_blank"><img align="center" style="margin-right:4px;color:#0e76a8" alt="abrielequdsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  &nbsp; 
+ 
+  <a  href="https://www.instagram.com/abrielequdsi/"  target="_blank"><img align="center" style="margin-right:4px;color:#F56040;" alt="abrielequdsi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>    
+ 
+   </p>
  
 
 
