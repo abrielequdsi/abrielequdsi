@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Welcome to my GitHub profile</h2>
+<h2> Welcome to my GitHub profile - Abriele Qudsi </h2>
 </div>
 
 <div align="center">
@@ -18,14 +18,15 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrielequdsi&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="abriele's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrielequdsi&&show_icons=true" alt="abrielequdsi's Github Stats">
 
+<br>
 <br>
 
 
-
-
-### Connect with me:
+<div align="center">
+<p> <i> Connect with me: </i></p>
+</div>
 
 <img align="center" style="margin-right:4px" alt="abrielequdsi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://www.abrielequdsi.com/"/>
 <img align="center" style="margin-right:4px;color:#0e76a8" alt="abrielequdsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/abriele-qudsi-1516821b0/"/>
