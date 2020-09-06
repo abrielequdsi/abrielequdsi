@@ -19,8 +19,8 @@ I enjoy creating things that live on the internet, whether that be websites, app
 <br>
 
 <div  >
-
- **🔭 I'm currently working at:** 
+<h3> 🔭 I'm currently working at:</h3>
+ 
 -  University of Warwick 🎓   
 -  Vortex.so company 🏢 
     
@@ -30,8 +30,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 <br>
 
 <div >
-
- **👾 Languages and Tools:**
+<h3> 👾 Languages and Tools:</h3>
  
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -47,18 +46,16 @@ I enjoy creating things that live on the internet, whether that be websites, app
  
 <br>
 
+ 
+<img   src="https://github-readme-stats.vercel.app/api?username=abrielequdsi&&show_icons=true" alt="abrielequdsi's Github Stats">
+ 
+<br>
+
+
 <div >
 
-<img   src="https://github-readme-stats.vercel.app/api?username=abrielequdsi&&show_icons=true" alt="abrielequdsi's Github Stats">
-
-
-<div  >
-    
-<br>
-<br>
+<h3> 📫 Connect with me:</h3>
  
- **📫 Connect with me:**  
-</div>
 
 <p style="margin-right:4px"> 
  
@@ -76,9 +73,6 @@ I enjoy creating things that live on the internet, whether that be websites, app
  
 </p> 
  
-
-
-
 
 </div>
 
