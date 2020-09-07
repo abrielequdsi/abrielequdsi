@@ -19,7 +19,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
  
 
 <div  >
-<h3> I'm currently working at 🔭 :</h3>
+<h3> I'm currently working at 🔭</h3>
  
 🎓  &nbsp; University of Warwick    
 🏢  &nbsp; Vortex.so Company 
@@ -27,7 +27,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 </div>
 
 <div >
-<h3>Languages and tools 👾 :</h3>
+<h3>Languages and tools 👾</h3>
  
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -44,7 +44,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 <div >
 
-<h3>Connect with me  📫 :</h3>
+<h3>Connect with me  📫</h3>
  
 
 <p style="margin-right:4px"> 
