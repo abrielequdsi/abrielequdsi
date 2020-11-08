@@ -19,7 +19,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
  
 
 <div  >
-<h3> Student at University of Warwick - Computer Science IFP 🎓</h3>  
+<h3> Student at University of Warwick 🎓- Computer Science IFP</h3>  
     
 </div>
 
