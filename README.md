@@ -18,7 +18,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
  
  
 
-<div  >
+<div>
 <h3> First-year Computer Science student at UCL 🎓</h3>  
     
 </div>
