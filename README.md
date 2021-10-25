@@ -1,47 +1,13 @@
-<div  >
-<h2> Welcome to my GitHub profile</h2>
-</div>
+## Hey! 👋 Welcome to my GitHub profile. 
 
-<div  >
-
-My name is Abriele Qudsi 👨🏻‍💻 . An Innovative developer offering experience in the full software development lifecycle - from concept through delivery of next-generation applications and customizable solutions. I'm a hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
-
-</div>
-
-<div  >
+My name is Abriele Qudsi 👨🏻‍💻. An innovative developer offering experience in the full software development lifecycle - from concept through delivery of next-generation applications and customizable solutions. I'm a hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is always to build products that provide pixel-perfect, performant experiences.
-
-<p> </p>
-
-</div>
- 
- 
-
-<div>
-<h3> BSc Computer Science student at UCL 🎓</h3>  
-    
-</div>
-
-<div >
-<h3>Languages and tools 👾</h3>
- 
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-
-
-</div>
-  
-
+***
 
 <div >
 
-<h3>Connect with me  📫</h3>
+### Connect with me  📫
  
 
 <p style="margin-right:4px"> 
@@ -51,15 +17,39 @@ I enjoy creating things that live on the internet, whether that be websites, app
 </a> &nbsp; &nbsp;
  
 <a href="https://www.linkedin.com/in/abriele-qudsi-1516821b0/" target="_blank">
-<img align="left" style="margin-right:4px;color:#0e76a8" alt="abrielequdsi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+<img align="left" style="margin-right:4px" alt="abrielequdsi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> 
 </a> &nbsp; &nbsp;
  
 <a  href="https://www.instagram.com/abrielequdsi/"  target="_blank">
-<img align="left" style="margin-right:4px;color:#F56040;" alt="abrielequdsi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>    
+<img align="left" style="margin-right:4px" alt="abrielequdsi | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>    
 </a> &nbsp; 
  
 </p> 
  
+ </div>
+
+<div >
+ </div>
+ 
+<div >
+ 
+### Languages and Tools🛠️
+ 
+<code>
+ <img height="20" alt="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+ <code><img height="20" alt="Django"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+ <code><img height="20" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+ <code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+   <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" alt="React" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code>
+<code><img height="20" alt="GraphQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"></code>
+<code><img height="20" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
+<code><img height="20" alt="MongoDB" src="https://harrylin349.github.io/Harry-Lin-Personal-Website/images/mongodb.png"></code>  
 
 </div>
+
+
+
+
 
