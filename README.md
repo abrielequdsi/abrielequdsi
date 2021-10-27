@@ -1,6 +1,6 @@
 ## Hey! 👋 Welcome to my GitHub profile. 
 
-My name is Abriele Qudsi 👨🏻‍💻. An innovative developer offering experience in the full software development lifecycle - from concept through delivery of next-generation applications and customizable solutions. I'm a hard-working listing programmer with a flair for creating elegant solutions in the least amount of time.
+My name is Abriele Qudsi 👨🏻‍💻. An innovative developer offering experience in the full software development lifecycle - from concept through delivery of next-generation applications and customisable solutions. I'm a hard-working programmer with a flair for creating elegant solutions in a collaborative manner.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is always to build products that provide pixel-perfect, performant experiences.
 ***
