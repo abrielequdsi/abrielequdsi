@@ -12,15 +12,15 @@ I enjoy creating things that live on the internet, whether that be websites, app
 
 <p style="margin-right:4px"> 
  
-<a href="https://www.abrielequdsi.com/" target="_blank">
+<a href="https://www.abrielequdsi.com" target="_blank">
 <img align="left"  alt="abrielequdsi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> 
 </a> &nbsp; &nbsp;
  
-<a href="https://www.linkedin.com/in/abriele-qudsi-1516821b0/" target="_blank">
+<a href="https://www.linkedin.com/in/abriele-qudsi" target="_blank">
 <img align="left" style="margin-right:4px" alt="abrielequdsi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> 
 </a> &nbsp; &nbsp;
  
-<a  href="https://www.instagram.com/abrielequdsi/"  target="_blank">
+<a  href="https://www.instagram.com/abrielequdsi"  target="_blank">
 <img align="left" style="margin-right:4px" alt="abrielequdsi | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>    
 </a> &nbsp; 
  
