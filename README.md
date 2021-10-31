@@ -5,7 +5,7 @@ My name is Abriele Qudsi 👨🏻‍💻. An innovative developer offering exper
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is always to build products that provide pixel-perfect, performant experiences.
 ***
 
-<div >
+  <div >
 
 ### Connect with me  📫
  
@@ -26,13 +26,12 @@ I enjoy creating things that live on the internet, whether that be websites, app
  
 </p> 
  
- </div>
+  </div>
 
-<div >
- </div>
+  <div >
+  </div>
  
-<div >
- 
+  <div >
 ### Languages and Tools🛠️
  
 <code> <img height="20" alt="Node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -46,7 +45,7 @@ I enjoy creating things that live on the internet, whether that be websites, app
 <code><img height="20" alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 <code><img height="20" alt="MongoDB" src="https://harrylin349.github.io/Harry-Lin-Personal-Website/images/mongodb.png"></code>  
 
-</div>
+  </div>
 
 
 
